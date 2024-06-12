@@ -2,7 +2,7 @@ import React from "react";
 
 function nav() {
   return (
-    <div className="flex w-[1920px] py-0 px-[120px] justify-between items-center ">
+    <div className="flex w-[1920px] py-0 px-[120px] justify-between items-center mt-6 relative ">
       <div className="flex items-center">
         <p className=" font-poppins text-2xl font-semibold leading-normal bg-gradient-to-r from-[#000] from-[-3.51%] to-[#313131] to-[103.31%] bg-clip-text text-transparent">
           Chennai.
